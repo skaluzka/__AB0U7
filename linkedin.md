@@ -4,8 +4,8 @@
 - github -> https://github.com/skaluzka/
 - gitlab -> https://gitlab.com/skaluzka/
 - linkedin -> https://linkedin.com/in/skaluzka/
-- insta -> `/dev/null`
-- fb -> `/dev/null`
+- insta -> [`/dev/null`](https://en.wikipedia.org/wiki/Null_device)
+- fb -> [`/dev/null`](https://en.wikipedia.org/wiki/Null_device)
 
 **mY_Fav0uR!tes:**
 - RFC -> [RFC2119](https://tools.ietf.org/html/rfc2119)
