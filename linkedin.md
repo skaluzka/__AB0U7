@@ -14,8 +14,9 @@
 - File format -> [txt](https://pubs.opengroup.org/onlinepubs/9699919799/basedefs/V1_chap03.html#tag_03_403)
 
 **bes7-L0VEd_m0tt0s:**
-- "Everything should be made as simple as possible, but not simpler."
+- "What's done, is done."
 - "Simplicity is the ultimate sophistication."
+- "Everything should be made as simple as possible, but not simpler."
 
 **RECEN7_fascinat!0ns:**
 - gitops
