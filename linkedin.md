@@ -8,10 +8,10 @@
 - fb -> `/dev/null`
 
 **mY_Fav0uR!tes:**
-- RFC -> RFC2119
-- RGB -> 0x000000
-- Posting style -> Bottom-posting
-- File format -> txt (the width of this text is set to 80 columns)
+- RFC -> [RFC2119](https://tools.ietf.org/html/rfc2119)
+- RGB -> [0x000000](https://www.w3schools.com/colors/color_tryit.asp?hex=000000)
+- Posting style -> [Bottom-posting](https://en.wikipedia.org/wiki/Posting_style#Bottom-posting)
+- File format -> [txt](https://pubs.opengroup.org/onlinepubs/9699919799/basedefs/V1_chap03.html#tag_03_403)
 
 **bes7-L0VEd_m0tt0s:**
 - "Everything should be made as simple as possible, but not simpler."
