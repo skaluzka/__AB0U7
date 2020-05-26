@@ -26,10 +26,11 @@
 - Jinjer (band)
 - NZ
 
-**0uts!de_digitaL_w0rLd:**
-- sport (bike, ind00r_cycLIN9)
-- music (BM, dnb, electronic, classical)
+**0uts!de_di9itaL_w0rLd:**
+- Sport (bike, ind00r_cycLIN9)
+- Music (bLACK_metaL, dNb, electr0nic, classical)
 - F1 (Ayrton Senna)
+- D0CumentaRy_M0V!es
 
 
 ``K.I.S.S. && haVe fuN!``
