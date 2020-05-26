@@ -1,6 +1,10 @@
 <img src="img/photo_96x96.png">
 
 ```
+
+AB0U7_me:
+
+
 I'm an enthusiast and daily user of free ("Free as in Beer") and open source operating systems and
 software.  My IT journey began with C64 when I was 8 years old.  First years with my own computer
 I spent - no surprise - on playing games!  Then, the next stage came - coding.  My first contact
@@ -36,4 +40,5 @@ FOSDEM, devconf.cz, confidence, pwning, pycon.pl, code::dive. I also watch YT ch
 blogs and books.
 
 I'm a moderate privacy-freak as well (moderate, but growing).
+
 ```
