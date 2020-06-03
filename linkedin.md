@@ -22,8 +22,8 @@
 - gitops
 - vulnhub
 - golang
+- Meshuggah (band)
 - Rust
-- Jinjer (band)
 - NZ
 
 **0uts!de_di9itaL_w0rLd:**
