@@ -8,7 +8,8 @@
 - fb -> [`/dev/null`](https://en.wikipedia.org/wiki/Null_device)
 
 **mY_Fav0uR!tes:**
-- RFC -> [RFC2119](https://tools.ietf.org/html/rfc2119)
+- RFC -> [RFC2119](https://tools.ietf.org/html/rfc2119),
+[RFC1149](https://tools.ietf.org/html/rfc1149)+[RFC2549](https://tools.ietf.org/html/rfc2549)
 - RGB -> [0x000000](https://www.w3schools.com/colors/color_tryit.asp?hex=000000)
 - Posting style -> [Bottom-posting](https://en.wikipedia.org/wiki/Posting_style#Bottom-posting)
 - File format -> [txt](https://pubs.opengroup.org/onlinepubs/9699919799/basedefs/V1_chap03.html#tag_03_403)
