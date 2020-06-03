@@ -36,7 +36,7 @@ help me to understand how things are built.
 I code with passion and I try to be compliant with "the UNIX spirit and philosophy".
 
 I try to follow news and recent IT trends as much as possible.  I participate in few IT conferences:
-FOSDEM, devconf.cz, confidence, pwning, pycon.pl, code::dive. I also watch YT channels, read tech
+FOSDEM, devconf.cz, confidence, pwning, pycon.pl, code::dive.  I also watch YT channels, read tech
 blogs and books.
 
 I'm a moderate privacy-freak as well (moderate, but growing).
