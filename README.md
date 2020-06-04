@@ -2,43 +2,43 @@
 
 ```
 
-AB0U7_me:
+.)gniworg tub ,etaredom( llew sa kaerf-ycavirp etaredom a m'I
+
+.skoob dna sgolb
+hcet daer ,slennahc TY hctaw osla I  .evid::edoc ,lp.nocyp ,gninwp ,ecnedifnoc ,zc.fnocved ,MEDSOF
+:secnerefnoc TI wef ni etapicitrap I  .elbissop sa hcum sa sdnert TI tnecer dna swen wollof ot yrt I
+
+."yhposolihp dna tirips XINU eht" htiw tnailpmoc eb ot yrt I dna noissap htiw edoc I
+
+.tliub era sgniht woh dnatsrednu ot em pleh
+nac meht gnivloS  .selddir dna selzzup TI ekil I yhw osla si sihT  .lanoisseforp a sa ecnedifnoc ym
+sesaercni dna noitcafsitas fo tol a em sevig ti - ffo syap syawla ,revewoh ,troffe tahT  .troffe
+erom seriuqer ti )esuaceb ro( hguoht neve ,stcepsa gnignellahc ,tluciffid nrael ot emit etoved I
+
+): !oot wal s'yhpruM ni eveileb ylgnorts I  .selur )flesruoY taepeR
+t'noD( YRD dna )elpmiS dna trohS tI peeK( SSIK wollof ot yrt I krow yliad ni suht msilaminim ekil I
+
+.meht diova ot tseb ym od I  ."leehw erauqs eht gnitnevnieR" dna "lleh
+ycnednepeD" ,"noitatumrep yb gnimmargorP" ,"ereH detnevnI toN - HIN" ,"srebmun cigaM" :era esehT
+.snrettap-itna etirovaf ym evah neve I  .stcejorp erawtfos ni snrettap-itna suoirav dnif nac I
+
+.semit ynam ti
+ecneirepxe ot ykcul saw I  .retteb ot esrow morf gnignahc era sgniht woh ees ot si trap gniyfsitas
+tsom eht tuB  .ylsselerac ro yldab enod sgniht ynam nees evah I  .tnrael eb ot hcum llits si ereht
+taht dezilaer osla ev'I tub ,tol a tnrael ev'I ecneirepxe lanoisseforp ym fo sraey esoht lla gniruD
+
+.seiduts eerged retsaM nageb I emit emas eht tA  .emit lluf gnikrow
+detrats ydaerla I eerged s'rolehcaB a htiw gnitaudarg retfA  .seiduts detrats I egelloc lacinhcet
+a gnitaudarg retfA  .erawdrah dna seigolonhcet TI htiw tcatnoc esolc a dah I noitacude ym gniruD
+
+.yadot llits worg ot seunitnoc ti - erom s'tahw dna detrats
+sretupmoc htiw erutnevda ym woh s'tahT  .tluser eht hctaw dna meht yfidom dna egnahc ot deirt evah I
+.senizagam retupmoc hsiloP tsrif yrev eht morf sgnitsil suoirav gniypoc ylpmis saw gnimmargorp htiw
+tcatnoc tsrif yM  .gnidoc - emac egats txen eht ,nehT  !semag gniyalp no - esirprus on - tneps I
+retupmoc nwo ym htiw sraey tsriF  .dlo sraey 8 saw I nehw 46C htiw nageb yenruoj TI yM  .erawtfos
+dna smetsys gnitarepo ecruos nepo dna )"reeB ni sa eerF"( eerf fo resu yliad dna tsaisuhtne na m'I
 
 
-I'm an enthusiast and daily user of free ("Free as in Beer") and open source operating systems and
-software.  My IT journey began with C64 when I was 8 years old.  First years with my own computer
-I spent - no surprise - on playing games!  Then, the next stage came - coding.  My first contact
-with programming was simply copying various listings from the very first Polish computer magazines.
-I have tried to change and modify them and watch the result.  That's how my adventure with computers
-started and what's more - it continues to grow still today.
-
-During my education I had a close contact with IT technologies and hardware.  After graduating a
-technical college I started studies.  After graduating with a Bachelor's degree I already started
-working full time.  At the same time I began Master degree studies.
-
-During all those years of my professional experience I've learnt a lot, but I've also realized that
-there is still much to be learnt.  I have seen many things done badly or carelessly.  But the most
-satisfying part is to see how things are changing from worse to better.  I was lucky to experience
-it many times.
-
-I can find various anti-patterns in software projects.  I even have my favorite anti-patterns.
-These are: "Magic numbers", "NIH - Not Invented Here", "Programming by permutation", "Dependency
-hell" and "Reinventing the square wheel".  I do my best to avoid them.
-
-I like minimalism thus in daily work I try to follow KISS (Keep It Short and Simple) and DRY (Don't
-Repeat Yourself) rules.  I strongly believe in Murphy's law too! :)
-
-I devote time to learn difficult, challenging aspects, even though (or because) it requires more
-effort.  That effort, however, always pays off - it gives me a lot of satisfaction and increases
-my confidence as a professional.  This is also why I like IT puzzles and riddles.  Solving them can
-help me to understand how things are built.
-
-I code with passion and I try to be compliant with "the UNIX spirit and philosophy".
-
-I try to follow news and recent IT trends as much as possible.  I participate in few IT conferences:
-FOSDEM, devconf.cz, confidence, pwning, pycon.pl, code::dive.  I also watch YT channels, read tech
-blogs and books.
-
-I'm a moderate privacy-freak as well (moderate, but growing).
+:em_7U0BA
 
 ```
