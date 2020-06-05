@@ -32,7 +32,7 @@ for i in D 0 n e; do sleep 0.2 ; echo -ne "${i} " ; done; >/dev/null ;\
                              true;#L0v'
 
 # Base64
-# U2VuZCBtYSBhbiBlLW1haWwgOik=
+# ZkxBOV97IUZfWTBVX1dBTjdfTTBSRV9DQTdjaF9NZV8wTl9MIU5LZUQhbn0K
 
 ```
 
