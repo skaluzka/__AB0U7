@@ -13,6 +13,7 @@
 - RGB -> [0x000000](https://www.w3schools.com/colors/color_tryit.asp?hex=000000)
 - Posting style -> [Bottom-posting](https://en.wikipedia.org/wiki/Posting_style#Bottom-posting)
 - File format -> [txt](https://pubs.opengroup.org/onlinepubs/9699919799/basedefs/V1_chap03.html#tag_03_403)
+- Sci-Fi movie -> [Blade Runner 2049](https://en.wikipedia.org/wiki/Blade_Runner_2049)
 
 **bes7-L0VEd_m0tt0s:**
 - "What's done, is done."
