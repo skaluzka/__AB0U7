@@ -21,12 +21,12 @@
 - "Everything should be made as simple as possible, but not simpler."
 
 **RECEN7_fascinat!0ns:**
-- gitops
-- vulnhub
-- golang
-- Meshuggah (band)
-- Rust
-- NZ
+- [gitops](https://www.gitops.tech/)
+- [vulnhub](https://www.vulnhub.com/#)
+- [golang](https://golang.org/)
+- [NZ](https://en.wikipedia.org/wiki/New_Zealand)
+- [Meshuggah](https://www.meshuggah.net/) (band)
+- [Rust](https://www.rust-lang.org/)
 
 **0uts!de_di9itaL_w0rLd:**
 - Sport (bike, ind00r_cycLIN9)
