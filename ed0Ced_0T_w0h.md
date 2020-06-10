@@ -7,8 +7,8 @@
 
         reset && true;                           true ; true;##?In-.
     echo "NOW=\"$(date)\"" >                 now_date.config && curl \
--s https://raw.githubusercontent.com/skaluzka/__AB0U7/master/README.md\
-|tail -n +4 | head -n -1 | tac | rev ; uname --kernel-name > /dev/null ;
+-s https://raw.githubusercontent.com/skaluzka/__AB0U7/master/README.rst\
+|tail -n +5 | tac | rev ; uname --kernel-name > /dev/null ; true; # xx;;;
 true; echo "" >/dev/null; echo ""; echo -ne "\t\t" && for i in W E L L;\
 do sleep  0.2 ; echo -ne "${i} " ; done ; sleep 0.2 ; echo -ne "\v" && \
 for i in D 0 n e; do sleep 0.2 ; echo -ne "${i} " ; done; >/dev/null ;\
