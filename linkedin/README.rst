@@ -50,4 +50,5 @@
 
 ``K.I.S.S. && haVe fuN!``
 
-|
+
+.. The end
